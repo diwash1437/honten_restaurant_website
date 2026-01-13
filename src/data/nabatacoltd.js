@@ -11,33 +11,38 @@ export const foodProducts= [
         id:'foodProduct',
         name:'R 東亜 ｵﾗﾝﾀﾞ産ﾌﾗｲﾄﾞﾎﾟﾃﾄ ﾅﾁｭﾗﾙｶｯﾄ',
         romanji:'',
+        english: 'fried potato',
         price: 1,
         image:'/image/friedpotato.png'
     },
         {
         id:'foodProduct',
         name:'ｱﾝﾃﾞｽの紅塩細粒500g ',
-                romanji: '',
-        image:''
+        english: 'salt for niku',
+        romanji: '',
+        image:'/image/salt.png'
     },
         {
         id:'foodProduct',
         name:'R 水研 ｶｰﾈﾙｺｰﾝ 1kg ',
-                romanji: '',
-        image:''
+        romanji: '',
+        image:'/image/corn.jpg',
+        english: 'corn'
     },
         {
         id:'foodProduct',
         name:'R 都 ﾌﾞﾗｼﾞﾙ産 とりもも 200UP2kg ',
-                romanji: '',
-        image:''
+        romanji: '',
+        image:'/image/chicken.png',
+        english: 'chicken makanai'
     },
         {
         id:'foodProduct',
         name:'ｶﾙﾛﾛｯｼ ﾚｯﾄﾞ 3L BIB ',
-                romanji: '',
+        romanji: '',
         price: 1,
-        image:''
+        image:'/image/redwine.png',
+        english: 'red wine'
     },
         {
         id:'foodProduct',

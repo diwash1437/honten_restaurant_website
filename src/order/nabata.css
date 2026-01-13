@@ -10,6 +10,10 @@ td{
 }
 .product-image img
 {
-  width: 30%;
+  width: 80%;
+  height: 120px;
+  object-position: center;
+  object-fit: cover;
+  overflow: auto;
 }
 
