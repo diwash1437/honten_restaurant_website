@@ -31,7 +31,7 @@ function App() {
 
 
 
-   <Route path='/' element={<Restaurant/>}/>
+   <Route path='/honten_restaurant_website/' element={<Restaurant/>}/>
    <Route path='/pickurusu' element={<PickurusuRecipe />}/>
    <Route path='/alcholOrder' element={<AlcholOrder/>}/>
   <Route path='/vegetableSoup' element={<VegetableSoup/>}/>

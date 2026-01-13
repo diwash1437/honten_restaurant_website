@@ -25,7 +25,7 @@ function NabataColtd153() {
     <>
       <title>Nabata Co ltd (株)名畑</title>
 
-      <Link to="/">Home</Link>
+      <Link to="/honten_restaurant_website/">Home</Link>
 
       <br /><br />
 

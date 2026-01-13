@@ -3,7 +3,7 @@ export function VegetableSoupOrder()
 {
     return(
     <>
-    <Link to="/">Home</Link>
+    <Link to="/honten_restaurant_website/">Home</Link>
     <h3>Vegetable Soup Order Set</h3>
     <ul>
         <li>Mushroom(shimaji): 2pack</li>
