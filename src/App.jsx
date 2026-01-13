@@ -37,7 +37,7 @@ function App() {
   <Route path='/vegetableSoup' element={<VegetableSoup/>}/>
   <Route path='/vegetableSoupOrder' element={<VegetableSoupOrder/>}/>
   <Route path='/lunch' element={<Lunch/>}/>
-  <Route path='/nabata' element={<NabataColtd153/>}/>
+  <Route path='honten_restaurant_website/nabata' element={<NabataColtd153/>}/>
   </Routes>
   )
 }
