@@ -47,15 +47,16 @@ export const foodProducts= [
         {
         id:'foodProduct',
         name:'ｻﾝﾄﾘｰ ｵﾚﾝｼﾞ100 1Lﾊﾟｯｸ ',
-                romanji: '',
+        romanji: '',
         price: 1,
-        image:''
+        image:'/image/orangesuntory.png',
+        english: 'orange juice suntory'
     },
         {
         id:'foodProduct',
         name:'ｳﾞｨｰﾆｬ･ｻﾝ･ｴｽﾃﾊﾞﾝ ｸﾗｼｯｸ ｶﾍﾞﾙﾈｿｰｳﾞｨﾆｮﾝ750ml',
         price: 1,
-                romanji: '',
+        romanji: '',
         image:''
     },
         {
